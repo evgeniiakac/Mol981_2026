@@ -1,0 +1,248 @@
+name	parent  child
+HVU00149.1                     N3     
+MDB4988148.1                   N4     
+MCU1355989.1                   N5     
+MCU1452838.1                   N5     
+WP_348672029.1                 N9     
+tr_M5DUF4_M5DUF4_9GAMM         N11    
+MDF1779793.1                   N11    
+MCF8408556.1                   N16    
+MFM7684010.1                   N17    
+MBM3454196.1                   N17    
+MEY3084324.1                   N15    
+NBY40040.1                     N14    
+MDB5228653.1                   N18    
+QQR97486.1                     N20    
+WP_286884179.1                 N22    
+HLU16473.1                     N23    
+HLS71754.1                     N23    
+WP_147439118.1                 N21    
+MBK6339107.1                   N19    
+OWY25180.1                     N24    
+MBX7242549.1                   N24    
+MEN9457270.1                   N26    
+HWU68207.1                     N27    
+HXG28774.1                     N27    
+MBV6628375.1                   N28    
+UniRef100_UPI0025ED33BC        N29    
+tr_A0A1M5PS67_A0A1M5PS67_9GAMM N30    
+MEY4766091.1                   N31    
+MBC7750911.1                   N31    
+tr_A0A2P1PR30_A0A2P1PR30_9GAMM N35    
+MBK8284402.1                   N36    
+MCB1555030.1                   N36    
+MCB1607896.1                   N38    
+MCX7059300.1                   N40    
+tr_A0A0D7UIY5_A0A0D7UIY5_ACIBA N41    
+WP_081399370.1                 N41    
+tr_Q6B360_Q6B360_9PROT         N43    
+tr_A0A918XDX5_A0A918XDX5_9GAMM N46    
+tr_A0A9J6RNV4_A0A9J6RNV4_9GAMM N48    
+WP_395880683.1                 N50    
+GAA6133738.1                   N51    
+tr_A0A1S1N4P3_A0A1S1N4P3_9GAMM N53    
+tr_A0ABY2VWB9_A0ABY2VWB9_9GAMM N54    
+MGJ8693341                     N54    
+tr_K7AEV5_K7AEV5_9ALTE         N52    
+tr_A0ABQ1RU56_A0ABQ1RU56_9ALTE N49    
+MCK5893047.1                   N47    
+tr_A0A8J6E178_A0A8J6E178_9EUKA N56    
+RYV01991.1                     N57    
+MDQ5919973.1                   N58    
+UniRef90_UPI00286F5422         N58    
+EDY87028.1                     N59    
+MEK6235759.1                   N60    
+MCP5501423.1                   N64    
+HMV77689.1                     N66    
+BHJ60225                       N67    
+WP_014801475                   N68    
+MCB1202396.1                   N68    
+BHJ59990                       N65    
+MCC5815698.1                   N70    
+MDX1959135.1                   N70    
+WP_232420939.1                 N72    
+tr_A0ABX4NNB8_A0ABX4NNB8_9LEPT N72    
+tr_M6BK47_M6BK47_LEPBO         N73    
+MCE9597547.1                   N74    
+tr_A0A2M9ZIV8_A0A2M9ZIV8_9LEPT N75    
+MCB1165983.1                   N75    
+MDX1917631.1                   N77    
+HEY9886426.1                   N77    
+MFN5539683.1                   N76    
+HMP80091.1                     N78    
+tr_A0ABT5D0B4_A0ABT5D0B4_9BACT N79    
+UniRef90_UPI0022590B27         N79    
+tr_A0A5C8ZSR6_A0A5C8ZSR6_9GAMM N80    
+tr_A0A1H3D2V9_A0A1H3D2V9_9GAMM N82    
+tr_A0A9X2WD90_A0A9X2WD90_9GAMM N85    
+TNC79834.1                     N87    
+KZY81306.1                     N87    
+UniRef100_UPI003517BA55        N88    
+tr_A0A1Y0IE24_A0A1Y0IE24_9GAMM N89    
+MCG8315437.1                   N89    
+MGK0405844                     N84    
+MCP5326341.1                   N90    
+NVK37340.1                     N91    
+WP_353352117.1                 N91    
+MBK8973102.1                   N92    
+UniRef100_UPI00124411A1        N92    
+BFD43138.1                     N95    
+tr_A0A7X5ZHG3_A0A7X5ZHG3_9GAMM N96    
+tr_A0A3S4X1W6_A0A3S4X1W6_SERRU N97    
+WP_399669856.1                 N99    
+tr_K8WSJ9_K8WSJ9_9GAMM         N100   
+WP_019453027.1                 N100   
+tr_A0A0H5LR21_A0A0H5LR21_YERIN N102   
+tr_A0ABM9TIK8_A0ABM9TIK8_9GAMM N102   
+tr_A0ABW8G7P8_A0ABW8G7P8_9GAMM N101   
+tr_A4Y0K1_A4Y0K1_ECTM1         N103   
+tr_Q4KK84_Q4KK84_PSEF5         N104   
+WP_025211201                   N105   
+WP_011331916                   N105   
+tr_A0ABU2WLD1_A0ABU2WLD1_9GAMM N106   
+MCK9383515.1                   N106   
+tr_A0A318EK77_A0A318EK77_9GAMM N37    
+MDD9893555.1                   N107   
+KPK55279.1                     N107   
+MDH4395893.1                   N108   
+UniRef100_UPI0024897544        N110   
+tr_A0A3R8SAS7_A0A3R8SAS7_9BURK N110   
+UniRef100_UPI002E3564B6        N109   
+UPI00075450D5                  N112   
+WP_011694329                   N113   
+WP_011352629                   N113   
+WP_004536469                   N114   
+WP_009906259                   N114   
+MBV9110801.1                   N116   
+tr_K0ER28_K0ER28_NOCB7         N117   
+UniRef100_UPI0020C9FDA8        N118   
+MDR3659692.1                   N118   
+MBP6114805.1                   N115   
+MFT3924447                     N120   
+MEY4579418.1                   N121   
+MEY4577998.1                   N122   
+MEY4578726.1                   N122   
+MFO0693635.1                   N119   
+N1                             root!                           N2 N115 N119
+N2                             N1      N3 N6
+N3                             N2      HVU00149.1 N4
+N4                             N3      MDB4988148.1 N5
+N5                             N4      MCU1355989.1 MCU1452838.1
+N6                             N2      N7 N111
+N7                             N6      N8 N32
+N8                             N7      N9 N25
+N9                             N8      WP_348672029.1 N10
+N10                            N9      N11 N12
+N11                            N10     tr_M5DUF4_M5DUF4_9GAMM MDF1779793.1
+N12                            N10     N13 N24
+N13                            N12     N14 N18
+N14                            N13     N15 NBY40040.1
+N15                            N14     N16 MEY3084324.1
+N16                            N15     MCF8408556.1 N17
+N17                            N16     MFM7684010.1 MBM3454196.1
+N18                            N13     MDB5228653.1 N19
+N19                            N18     N20 MBK6339107.1
+N20                            N19     QQR97486.1 N21
+N21                            N20     N22 WP_147439118.1
+N22                            N21     WP_286884179.1 N23
+N23                            N22     HLU16473.1 HLS71754.1
+N24                            N12     OWY25180.1 MBX7242549.1
+N25                            N8      N26 N28
+N26                            N25     MEN9457270.1 N27
+N27                            N26     HWU68207.1 HXG28774.1
+N28                            N25     MBV6628375.1 N29
+N29                            N28     UniRef100_UPI0025ED33BC N30
+N30                            N29     tr_A0A1M5PS67_A0A1M5PS67_9GAMM N31
+N31                            N30     MEY4766091.1 MBC7750911.1
+N32                            N7      N33 N108
+N33                            N32     N34 N107
+N34                            N33     N35 N37
+N35                            N34     tr_A0A2P1PR30_A0A2P1PR30_9GAMM N36
+N36                            N35     MBK8284402.1 MCB1555030.1
+N37                            N34     N38 tr_A0A318EK77_A0A318EK77_9GAMM
+N38                            N37     MCB1607896.1 N39
+N39                            N38     N40 N42
+N40                            N39     MCX7059300.1 N41
+N41                            N40     tr_A0A0D7UIY5_A0A0D7UIY5_ACIBA WP_081399370.1
+N42                            N39     N43 N93
+N43                            N42     tr_Q6B360_Q6B360_9PROT N44
+N44                            N43     N45 N80
+N45                            N44     N46 N55
+N46                            N45     tr_A0A918XDX5_A0A918XDX5_9GAMM N47
+N47                            N46     N48 MCK5893047.1
+N48                            N47     tr_A0A9J6RNV4_A0A9J6RNV4_9GAMM N49
+N49                            N48     N50 tr_A0ABQ1RU56_A0ABQ1RU56_9ALTE
+N50                            N49     WP_395880683.1 N51
+N51                            N50     GAA6133738.1 N52
+N52                            N51     N53 tr_K7AEV5_K7AEV5_9ALTE
+N53                            N52     tr_A0A1S1N4P3_A0A1S1N4P3_9GAMM N54
+N54                            N53     tr_A0ABY2VWB9_A0ABY2VWB9_9GAMM MGJ8693341
+N55                            N45     N56 N59
+N56                            N55     tr_A0A8J6E178_A0A8J6E178_9EUKA N57
+N57                            N56     RYV01991.1 N58
+N58                            N57     MDQ5919973.1 UniRef90_UPI00286F5422
+N59                            N55     EDY87028.1 N60
+N60                            N59     MEK6235759.1 N61
+N61                            N60     N62 N78
+N62                            N61     N63 N76
+N63                            N62     N64 N69
+N64                            N63     MCP5501423.1 N65
+N65                            N64     N66 BHJ59990
+N66                            N65     HMV77689.1 N67
+N67                            N66     BHJ60225 N68
+N68                            N67     WP_014801475 MCB1202396.1
+N69                            N63     N70 N71
+N70                            N69     MCC5815698.1 MDX1959135.1
+N71                            N69     N72 N73
+N72                            N71     WP_232420939.1 tr_A0ABX4NNB8_A0ABX4NNB8_9LEPT
+N73                            N71     tr_M6BK47_M6BK47_LEPBO N74
+N74                            N73     MCE9597547.1 N75
+N75                            N74     tr_A0A2M9ZIV8_A0A2M9ZIV8_9LEPT MCB1165983.1
+N76                            N62     N77 MFN5539683.1
+N77                            N76     MDX1917631.1 HEY9886426.1
+N78                            N61     HMP80091.1 N79
+N79                            N78     tr_A0ABT5D0B4_A0ABT5D0B4_9BACT UniRef90_UPI0022590B27
+N80                            N44     tr_A0A5C8ZSR6_A0A5C8ZSR6_9GAMM N81
+N81                            N80     N82 N92
+N82                            N81     tr_A0A1H3D2V9_A0A1H3D2V9_9GAMM N83
+N83                            N82     N84 N90
+N84                            N83     N85 MGK0405844
+N85                            N84     tr_A0A9X2WD90_A0A9X2WD90_9GAMM N86
+N86                            N85     N87 N88
+N87                            N86     TNC79834.1 KZY81306.1
+N88                            N86     UniRef100_UPI003517BA55 N89
+N89                            N88     tr_A0A1Y0IE24_A0A1Y0IE24_9GAMM MCG8315437.1
+N90                            N83     MCP5326341.1 N91
+N91                            N90     NVK37340.1 WP_353352117.1
+N92                            N81     MBK8973102.1 UniRef100_UPI00124411A1
+N93                            N42     N94 N106
+N94                            N93     N95 N103
+N95                            N94     BFD43138.1 N96
+N96                            N95     tr_A0A7X5ZHG3_A0A7X5ZHG3_9GAMM N97
+N97                            N96     tr_A0A3S4X1W6_A0A3S4X1W6_SERRU N98
+N98                            N97     N99 N101
+N99                            N98     WP_399669856.1 N100
+N100                           N99     tr_K8WSJ9_K8WSJ9_9GAMM WP_019453027.1
+N101                           N98     N102 tr_A0ABW8G7P8_A0ABW8G7P8_9GAMM
+N102                           N101    tr_A0A0H5LR21_A0A0H5LR21_YERIN tr_A0ABM9TIK8_A0ABM9TIK8_9GAMM
+N103                           N94     tr_A4Y0K1_A4Y0K1_ECTM1 N104
+N104                           N103    tr_Q4KK84_Q4KK84_PSEF5 N105
+N105                           N104    WP_025211201 WP_011331916
+N106                           N93     tr_A0ABU2WLD1_A0ABU2WLD1_9GAMM MCK9383515.1
+N107                           N33     MDD9893555.1 KPK55279.1
+N108                           N32     MDH4395893.1 N109
+N109                           N108    N110 UniRef100_UPI002E3564B6
+N110                           N109    UniRef100_UPI0024897544 tr_A0A3R8SAS7_A0A3R8SAS7_9BURK
+N111                           N6      N112 N114
+N112                           N111    UPI00075450D5 N113
+N113                           N112    WP_011694329 WP_011352629
+N114                           N111    WP_004536469 WP_009906259
+N115                           N1      N116 MBP6114805.1
+N116                           N115    MBV9110801.1 N117
+N117                           N116    tr_K0ER28_K0ER28_NOCB7 N118
+N118                           N117    UniRef100_UPI0020C9FDA8 MDR3659692.1
+N119                           N1      N120 MFO0693635.1
+N120                           N119    MFT3924447 N121
+N121                           N120    MEY4579418.1 N122
+N122                           N121    MEY4577998.1 MEY4578726.1
+
